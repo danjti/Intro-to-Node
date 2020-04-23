@@ -4,6 +4,7 @@
   "description": "Simple Web App",
   "main": "bootstrap_navbar.js",
   "scripts": {
+    "start": "node bootstrap_navbar.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
