@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "12.16.2",
+  "description": "Simple Web App",
+  "main": "bootstrap_navbar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danjti/Intro-to-Node.git"
+  },
+  "author": "Daniel Mocanu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danjti/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/danjti/Intro-to-Node#readme"
+}
